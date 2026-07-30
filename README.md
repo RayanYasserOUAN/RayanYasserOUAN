@@ -1,4 +1,4 @@
-﻿<h1 align="center">Hi 👋, I'm Rayan</h1>
+<h1 align="center">Hi 👋, I'm Rayan</h1>
 
 <table>
 <tr>
@@ -10,25 +10,27 @@
 </td>
 <td>
 
-```ansi
-[1;32mrayan@algiers ~ %[0m
-[36m-----------------------------------------------------------[0m
-[33m.[0m [33mOS[0m ..................... [37mFramer, WordPress, Web[0m
-[33m.[0m [33mUptime[0m ................. [37m21 years, 5 months[0m
-[33m.[0m [33mHost[0m ................... [37mN/A[0m
-[33m.[0m [33mKernel[0m .................. [37mUI/UX designer, Framer Developer[0m
-[33m.[0m [33mIDE[0m ..................... [37mAntigravity, Cursor, VS Code[0m
-[33m.[0m
-[33m.[0m [33mLanguages.Programming[0m ... [37mTypeScript, JavaScript, HTML,[0m
-                              [37mCSS, Python, Java, C/C++, react[0m
-[33m.[0m [33mLanguages.Human[0m ......... [37mArabic, English[0m
-[33m.[0m [33mCurrently.Studying[0m ...... [37mComputer Science @ UMBB [0m
-[33m.[0m
-[33m.[0m [33mHobbies[0m .................. [37mDesigning, Coding, AI[0m
-[33m.[0m
-[1;35m- Contact[0m [1;35m------------------------------------------------[0m
-[33m.[0m [33mEmail[0m .................... [37mouanoughiyasserrayan@gmail.com[0m
-[36m-----------------------------------------------------------[0m
+```
+rayan@algiers ~ %
+-----------------------------------------------------------
+. OS: ..................... Framer, WordPress, Web
+. Uptime: ................. 21 years, 5 months
+. Host: .................... [portfolio.com]
+. Kernel: .................. UI/UX designer, Framer Developer
+. IDE: ..................... Antigravity, Cursor, VS Code
+.
+. Languages.Programming: ... TypeScript, JavaScript, HTML,
+                              CSS, Python, Java, C/C++, react
+. Languages.Human: ......... Arabic, English
+. Currently.Studying: ...... Computer Science @ UMBB 
+.
+. Hobbies: .................. Designing, Coding, AI
+.
+- Contact -------------------------------------------------
+. Linkedin: ................. [Linkedin.com]
+. Website: .................. [portfolio.com]
+. Email: .................... ouanoughiyasserrayan@gmail.com
+-----------------------------------------------------------
 ```
 
 </td>
